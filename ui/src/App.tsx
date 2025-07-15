@@ -3,7 +3,7 @@ import {
   Button, Container, Typography, Box, CircularProgress, Card, CardContent, Divider, Grid, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Stack, TextField
 } from '@mui/material';
 import Autocomplete from '@mui/material/Autocomplete';
-import { runScraperOnce, getTopWords, getDbStats, getPosts, getLatestAnalysisReport, runFullAnalyzer, getSubreddits } from './api/backend';
+import { runScraperOnce, getTopWords, getDbStats, getPosts, getSubreddits } from './api/backend';
 import TrendingUpIcon from '@mui/icons-material/TrendingUp';
 import StorageIcon from '@mui/icons-material/Storage';
 import ForumIcon from '@mui/icons-material/Forum';
@@ -23,7 +23,6 @@ function App() {
   const [postsLoading, setPostsLoading] = useState(false);
   const [subreddit, setSubreddit] = useState('Python');
   const [analyzerSummary, setAnalyzerSummary] = useState<any | null>(null);
-  const [analyzerLoading, setAnalyzerLoading] = useState(false);
   const [analyzerError, setAnalyzerError] = useState<string | null>(null);
   const [subredditFilter, setSubredditFilter] = useState<string | null>(null);
   const [subredditOptions, setSubredditOptions] = useState<string[]>([]);
