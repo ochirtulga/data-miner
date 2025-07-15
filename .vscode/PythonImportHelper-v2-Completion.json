@@ -1,0 +1,1068 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Body",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzerRequest",
+        "importPath": "models.analyzer",
+        "description": "models.analyzer",
+        "isExtraImport": true,
+        "detail": "models.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "WordFrequencyAnalyzer",
+        "importPath": "core.analyzer.analyzer",
+        "description": "core.analyzer.analyzer",
+        "isExtraImport": true,
+        "detail": "core.analyzer.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "WordFrequencyAnalyzer",
+        "importPath": "core.analyzer.analyzer",
+        "description": "core.analyzer.analyzer",
+        "isExtraImport": true,
+        "detail": "core.analyzer.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "importPath": "core.utils.database",
+        "description": "core.utils.database",
+        "isExtraImport": true,
+        "detail": "core.utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "importPath": "core.utils.database",
+        "description": "core.utils.database",
+        "isExtraImport": true,
+        "detail": "core.utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "importPath": "core.utils.database",
+        "description": "core.utils.database",
+        "isExtraImport": true,
+        "detail": "core.utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "core.utils.config",
+        "description": "core.utils.config",
+        "isExtraImport": true,
+        "detail": "core.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "core.utils.config",
+        "description": "core.utils.config",
+        "isExtraImport": true,
+        "detail": "core.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "ScraperRequest",
+        "importPath": "models.scraper",
+        "description": "models.scraper",
+        "isExtraImport": true,
+        "detail": "models.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "RedditAutoScraper",
+        "importPath": "core.scraper",
+        "description": "core.scraper",
+        "isExtraImport": true,
+        "detail": "core.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "urljoin",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "importPath": "utils.database",
+        "description": "utils.database",
+        "isExtraImport": true,
+        "detail": "utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "LoggerManager",
+        "importPath": "utils.logger",
+        "description": "utils.logger",
+        "isExtraImport": true,
+        "detail": "utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "TextProcessor",
+        "importPath": "utils.text_processor",
+        "description": "utils.text_processor",
+        "isExtraImport": true,
+        "detail": "utils.text_processor",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.scraper",
+        "description": "api.scraper",
+        "isExtraImport": true,
+        "detail": "api.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.analyzer",
+        "description": "api.analyzer",
+        "isExtraImport": true,
+        "detail": "api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.db",
+        "description": "api.db",
+        "isExtraImport": true,
+        "detail": "api.db",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "api.data",
+        "description": "api.data",
+        "isExtraImport": true,
+        "detail": "api.data",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "get_top_words",
+        "kind": 2,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "def get_top_words(top_n: int = Query(10, description=\"Number of top words to return\"), subreddit: str = Query(None, description=\"Subreddit to filter by\")):\n    \"\"\"Get top words from the word_frequencies table, optionally filtered by subreddit\"\"\"\n    db = DatabaseManager()\n    try:\n        words = db.get_top_words(top_n=top_n, subreddit=subreddit)\n        return {\"words\": words, \"total\": len(words)}\n    except Exception as e:\n        return JSONResponse(\n            status_code=500, \n            content={\"detail\": f\"Error retrieving top words: {str(e)}\"}",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "run_analyzer",
+        "kind": 2,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "def run_analyzer(req: AnalyzerRequest):\n    analyzer = WordFrequencyAnalyzer()\n    result = analyzer.analyze_word_frequencies(data_source=req.data_source, incremental=False)\n    return {\"status\": \"completed\", \"result\": result}\n@router.post(\"/analyzer/run-full\")\ndef run_full_analyzer(\n    data_source: str = Body('both'),\n    output_dir: str = Body('data/analyzed'),\n    top_n: int = Body(50),\n    search: str = Body(None),",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "run_full_analyzer",
+        "kind": 2,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "def run_full_analyzer(\n    data_source: str = Body('both'),\n    output_dir: str = Body('data/analyzed'),\n    top_n: int = Body(50),\n    search: str = Body(None),\n    word_details: str = Body(None),\n    incremental: bool = Body(False)\n):\n    analyzer = WordFrequencyAnalyzer()\n    summary = {}",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "list_subreddits",
+        "kind": 2,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "def list_subreddits():\n    db = DatabaseManager()\n    try:\n        subreddits = db.list_scraped_subreddits()\n        return {\"subreddits\": subreddits}\n    except Exception as e:\n        return JSONResponse(status_code=500, content={\"detail\": f\"Error retrieving subreddits: {str(e)}\"})\n@router.post(\"/analyzer/incremental\")\ndef run_incremental_analyzer():\n    analyzer = WordFrequencyAnalyzer()",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "run_incremental_analyzer",
+        "kind": 2,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "def run_incremental_analyzer():\n    analyzer = WordFrequencyAnalyzer()\n    analyzer.analyze_word_frequencies(data_source='database', incremental=True)\n    return {\"status\": \"completed\"}",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.analyzer",
+        "description": "backend.app.api.analyzer",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/analyzer\")\ndef get_top_words(top_n: int = Query(10, description=\"Number of top words to return\"), subreddit: str = Query(None, description=\"Subreddit to filter by\")):\n    \"\"\"Get top words from the word_frequencies table, optionally filtered by subreddit\"\"\"\n    db = DatabaseManager()\n    try:\n        words = db.get_top_words(top_n=top_n, subreddit=subreddit)\n        return {\"words\": words, \"total\": len(words)}\n    except Exception as e:\n        return JSONResponse(",
+        "detail": "backend.app.api.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "list_posts",
+        "kind": 2,
+        "importPath": "backend.app.api.data",
+        "description": "backend.app.api.data",
+        "peekOfCode": "def list_posts(subreddit: str = None, limit: int = 100):\n    db = DatabaseManager()\n    posts = db.get_posts_for_analysis(limit=limit)\n    if subreddit:\n        posts = [p for p in posts if p['subreddit'].lower() == subreddit.lower()]\n    return posts",
+        "detail": "backend.app.api.data",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.data",
+        "description": "backend.app.api.data",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/data/posts\")\ndef list_posts(subreddit: str = None, limit: int = 100):\n    db = DatabaseManager()\n    posts = db.get_posts_for_analysis(limit=limit)\n    if subreddit:\n        posts = [p for p in posts if p['subreddit'].lower() == subreddit.lower()]\n    return posts",
+        "detail": "backend.app.api.data",
+        "documentation": {}
+    },
+    {
+        "label": "db_stats",
+        "kind": 2,
+        "importPath": "backend.app.api.db",
+        "description": "backend.app.api.db",
+        "peekOfCode": "def db_stats():\n    db = DatabaseManager()\n    stats = db.get_database_stats()\n    return stats",
+        "detail": "backend.app.api.db",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.db",
+        "description": "backend.app.api.db",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/db/stats\")\ndef db_stats():\n    db = DatabaseManager()\n    stats = db.get_database_stats()\n    return stats",
+        "detail": "backend.app.api.db",
+        "documentation": {}
+    },
+    {
+        "label": "run_scraper_once",
+        "kind": 2,
+        "importPath": "backend.app.api.scraper",
+        "description": "backend.app.api.scraper",
+        "peekOfCode": "def run_scraper_once(req: ScraperRequest):\n    num_posts = getattr(req, 'num_posts', 20)\n    scraper = RedditAutoScraper(\n        subreddit=req.subreddit,\n        num_posts=num_posts\n    )\n    new_posts = scraper.run_scraping_job()\n    # Trigger incremental analyzer after scraping\n    analyzer = WordFrequencyAnalyzer()\n    analyzer.analyze_word_frequencies(data_source='database', incremental=True, subreddit=req.subreddit)",
+        "detail": "backend.app.api.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "backend.app.api.scraper",
+        "description": "backend.app.api.scraper",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/scraper/run-once\")\ndef run_scraper_once(req: ScraperRequest):\n    num_posts = getattr(req, 'num_posts', 20)\n    scraper = RedditAutoScraper(\n        subreddit=req.subreddit,\n        num_posts=num_posts\n    )\n    new_posts = scraper.run_scraping_job()\n    # Trigger incremental analyzer after scraping",
+        "detail": "backend.app.api.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.app.core.analyzer.analyzer",
+        "description": "backend.app.core.analyzer.analyzer",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run word frequency analysis\"\"\"\n    analyzer = WordFrequencyAnalyzer()\n    print(\"Reddit Word Frequency Analyzer\")\n    print(\"=\" * 40)\n    print(\"\\n Analyzing word frequencies...\")\n    frequencies = analyzer.analyze_word_frequencies(data_source='database')\n    if not frequencies:\n        print(\"No data found to analyze. Make sure you have scraped some Reddit data first.\")\n        return",
+        "detail": "backend.app.core.analyzer.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "kind": 6,
+        "importPath": "backend.app.core.analyzer.data_loader",
+        "description": "backend.app.core.analyzer.data_loader",
+        "peekOfCode": "class DataLoader:\n    \"\"\"Handles data loading from multiple sources (Single Responsibility)\"\"\"\n    def __init__(self, db_manager: DatabaseManager):\n        self.db_manager = db_manager\n    def load_data_from_database(self) -> List[Dict]:\n        \"\"\"Load all scraped data from SQLite database\"\"\"\n        return self.db_manager.get_posts_for_analysis()",
+        "detail": "backend.app.core.analyzer.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "WordAnalyzer",
+        "kind": 6,
+        "importPath": "backend.app.core.analyzer.word_analyzer",
+        "description": "backend.app.core.analyzer.word_analyzer",
+        "peekOfCode": "class WordAnalyzer:\n    \"\"\"Handles word analysis logic (Single Responsibility)\"\"\"\n    def __init__(self, text_processor: TextProcessor):\n        self.text_processor = text_processor\n        self.word_frequencies = Counter()\n        self.word_contexts = defaultdict(list)\n        self.word_sources = defaultdict(set)\n    def process_post_data(self, post_data: Dict, post_id: Optional[str] = None) -> Dict[str, int]:\n        \"\"\"Process a single post and extract word frequencies\"\"\"\n        post_words = Counter()",
+        "detail": "backend.app.core.analyzer.word_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "WordFrequencyAnalyzer",
+        "kind": 6,
+        "importPath": "backend.app.core.analyzer.word_frequency_analyzer",
+        "description": "backend.app.core.analyzer.word_frequency_analyzer",
+        "peekOfCode": "class WordFrequencyAnalyzer:\n    \"\"\"Main analyzer class that orchestrates the analysis process\"\"\"\n    LAST_ANALYSIS_FILE = os.path.join('data', 'analyzed', 'last_analysis_timestamp.txt')\n    def __init__(self):\n        self.log_path = Config.get_log_path( Config.DEFAULT_ANALYZER_LOG, \"analyzer\")\n        self.logger = LoggerManager.setup_logger('word_analyzer', self.log_path)\n        self.db_manager = DatabaseManager()\n        self.text_processor = TextProcessor()\n        self.data_loader = DataLoader(self.db_manager)\n        self.word_analyzer = WordAnalyzer(self.text_processor)",
+        "detail": "backend.app.core.analyzer.word_frequency_analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "PostDataExtractor",
+        "kind": 6,
+        "importPath": "backend.app.core.scraper.post_data_extractor",
+        "description": "backend.app.core.scraper.post_data_extractor",
+        "peekOfCode": "class PostDataExtractor:\n    \"\"\"Handles post data extraction (Single Responsibility)\"\"\"\n    @staticmethod\n    def extract_post_data(post: Dict) -> Dict:\n        \"\"\"Extract relevant data from a Reddit post\"\"\"\n        post_data = post['data']\n        return {\n            'post_id': post_data.get('id', ''),\n            'title': post_data.get('title', ''),\n            'author': post_data.get('author', ''),",
+        "detail": "backend.app.core.scraper.post_data_extractor",
+        "documentation": {}
+    },
+    {
+        "label": "RedditAPIClient",
+        "kind": 6,
+        "importPath": "backend.app.core.scraper.reddit_api_client",
+        "description": "backend.app.core.scraper.reddit_api_client",
+        "peekOfCode": "class RedditAPIClient:\n    \"\"\"Handles Reddit API interactions (Single Responsibility)\"\"\"\n    def __init__(self, user_agent: str = \"\"):\n        self.headers = {\n            'User-Agent': user_agent or Config.REDDIT_USER_AGENT\n        }\n    def get_subreddit_posts(self, subreddit: str, limit: int = 0, sort: str = \"\") -> List[Dict]:\n        \"\"\"\n        Get posts from subreddit using Reddit's JSON API\n        Args:",
+        "detail": "backend.app.core.scraper.reddit_api_client",
+        "documentation": {}
+    },
+    {
+        "label": "RedditAutoScraper",
+        "kind": 6,
+        "importPath": "backend.app.core.scraper.reddit_auto_scraper",
+        "description": "backend.app.core.scraper.reddit_auto_scraper",
+        "peekOfCode": "class RedditAutoScraper:\n    \"\"\"Main scraper class that orchestrates the scraping process\"\"\"\n    def __init__(self, subreddit: str = \"\", num_posts: int = 20):\n        \"\"\"\n        Initialize the automated Reddit scraper\n        Args:\n            subreddit (str): Subreddit name (without r/)\n            num_posts (int): Number of posts to fetch\n        \"\"\"\n        self.subreddit = subreddit or Config.DEFAULT_SUBREDDIT",
+        "detail": "backend.app.core.scraper.reddit_auto_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.app.core.scraper.scraper",
+        "description": "backend.app.core.scraper.scraper",
+        "peekOfCode": "def main():\n    \"\"\"Main function\"\"\"\n    parser = argparse.ArgumentParser(description='Reddit Auto Scraper')\n    parser.add_argument('--once', action='store_true', \n                       help='Run scraper once and exit (no continuous mode)')\n    parser.add_argument('--subreddit', type=str, \n                       help='Subreddit name (without r/)')\n    parser.add_argument('--interval', type=int, \n                       help='Scraping interval in minutes')\n    parser.add_argument('--output-dir', type=str, ",
+        "detail": "backend.app.core.scraper.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "backend.app.core.utils.config",
+        "description": "backend.app.core.utils.config",
+        "peekOfCode": "class Config:\n    \"\"\"Centralized configuration for the Reddit data mining system\"\"\"\n    # Default directories\n    DEFAULT_DATA_DIR = 'data'\n    DEFAULT_OUTPUT_DIR = 'data/analyzed'\n    DEFAULT_DB_DIR = 'data/db'\n    DEFAULT_LOGS_DIR = 'data/logs'\n    DEFAULT_SCRAPED_DIR = 'data/scraped'\n    DEFAULT_ANALYZED_DIR = 'data/analyzed'\n    # File paths",
+        "detail": "backend.app.core.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "DatabaseManager",
+        "kind": 6,
+        "importPath": "backend.app.core.utils.database",
+        "description": "backend.app.core.utils.database",
+        "peekOfCode": "class DatabaseManager:\n    \"\"\"Database manager for handling SQLite and PostgreSQL operations\"\"\"\n    def __init__(self):\n        self.logger = logging.getLogger(__name__)\n        self.db_type = Config.DB_TYPE\n    @contextmanager\n    def get_connection(self):\n        \"\"\"Context manager for database connections (SQLite or PostgreSQL)\"\"\"\n        conn = None\n        try:",
+        "detail": "backend.app.core.utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "FileManager",
+        "kind": 6,
+        "importPath": "backend.app.core.utils.file_manager",
+        "description": "backend.app.core.utils.file_manager",
+        "peekOfCode": "class FileManager:\n    \"\"\"File manager for handling data file operations\"\"\"\n    def __init__(self, base_dir: str):\n        self.base_dir = base_dir\n        self.scraped_dir = os.path.join(base_dir, 'scraped')\n        self.analyzed_dir = os.path.join(base_dir, 'analyzed')\n        # Create directories\n        self._create_directories()\n    def _create_directories(self):\n        \"\"\"Create necessary directories\"\"\"",
+        "detail": "backend.app.core.utils.file_manager",
+        "documentation": {}
+    },
+    {
+        "label": "LoggerManager",
+        "kind": 6,
+        "importPath": "backend.app.core.utils.logger",
+        "description": "backend.app.core.utils.logger",
+        "peekOfCode": "class LoggerManager:\n    \"\"\"Centralized logging manager\"\"\"\n    _loggers = {}\n    @classmethod\n    def setup_logger(cls, name: str, log_file: str, level: str = \"INFO\") -> logging.Logger:\n        \"\"\"Setup a logger with file and console handlers\"\"\"\n        if name in cls._loggers:\n            return cls._loggers[name]\n        # Create logger\n        logger = logging.getLogger(name)",
+        "detail": "backend.app.core.utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "TextProcessor",
+        "kind": 6,
+        "importPath": "backend.app.core.utils.text_processor",
+        "description": "backend.app.core.utils.text_processor",
+        "peekOfCode": "class TextProcessor:\n    \"\"\"Text processing utilities for word analysis\"\"\"\n    def __init__(self, stop_words: Set[str] = None, min_word_length: int = None):\n        self.stop_words = stop_words or Config.STOP_WORDS\n        self.min_word_length = min_word_length or Config.MIN_WORD_LENGTH\n    def clean_text(self, text: str) -> str:\n        \"\"\"\n        Clean and normalize text for analysis\n        Args:\n            text (str): Raw text to clean",
+        "detail": "backend.app.core.utils.text_processor",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzerRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.analyzer",
+        "description": "backend.app.models.analyzer",
+        "peekOfCode": "class AnalyzerRequest(BaseModel):\n    data_source: str = 'both'  # 'files', 'database', or 'both'\n    top_n: int = 50\n    search: Optional[str] = None\n    word: Optional[str] = None",
+        "detail": "backend.app.models.analyzer",
+        "documentation": {}
+    },
+    {
+        "label": "PostFilterRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.data",
+        "description": "backend.app.models.data",
+        "peekOfCode": "class PostFilterRequest(BaseModel):\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100\n    after: Optional[str] = None\n    before: Optional[str] = None\nclass ExportRequest(BaseModel):\n    format: str = 'csv'  # or 'json'\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100",
+        "detail": "backend.app.models.data",
+        "documentation": {}
+    },
+    {
+        "label": "ExportRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.data",
+        "description": "backend.app.models.data",
+        "peekOfCode": "class ExportRequest(BaseModel):\n    format: str = 'csv'  # or 'json'\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100",
+        "detail": "backend.app.models.data",
+        "documentation": {}
+    },
+    {
+        "label": "DBActionRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.db",
+        "description": "backend.app.models.db",
+        "peekOfCode": "class DBActionRequest(BaseModel):\n    subreddit: Optional[str] = None\n    older_than_days: Optional[int] = None",
+        "detail": "backend.app.models.db",
+        "documentation": {}
+    },
+    {
+        "label": "ScraperRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.models",
+        "description": "backend.app.models.models",
+        "peekOfCode": "class ScraperRequest(BaseModel):\n    subreddit: str\n    output_dir: Optional[str] = None\n    db_path: Optional[str] = None\nclass AnalyzerRequest(BaseModel):\n    data_source: str = 'both'\n    top_n: int = 50\n    search: Optional[str] = None\n    word: Optional[str] = None\nclass DBActionRequest(BaseModel):",
+        "detail": "backend.app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "AnalyzerRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.models",
+        "description": "backend.app.models.models",
+        "peekOfCode": "class AnalyzerRequest(BaseModel):\n    data_source: str = 'both'\n    top_n: int = 50\n    search: Optional[str] = None\n    word: Optional[str] = None\nclass DBActionRequest(BaseModel):\n    subreddit: Optional[str] = None\n    older_than_days: Optional[int] = None\nclass PostFilterRequest(BaseModel):\n    subreddit: Optional[str] = None",
+        "detail": "backend.app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "DBActionRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.models",
+        "description": "backend.app.models.models",
+        "peekOfCode": "class DBActionRequest(BaseModel):\n    subreddit: Optional[str] = None\n    older_than_days: Optional[int] = None\nclass PostFilterRequest(BaseModel):\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100\n    after: Optional[str] = None\n    before: Optional[str] = None\nclass ExportRequest(BaseModel):\n    format: str = 'csv'  # or 'json'",
+        "detail": "backend.app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PostFilterRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.models",
+        "description": "backend.app.models.models",
+        "peekOfCode": "class PostFilterRequest(BaseModel):\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100\n    after: Optional[str] = None\n    before: Optional[str] = None\nclass ExportRequest(BaseModel):\n    format: str = 'csv'  # or 'json'\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100",
+        "detail": "backend.app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "ExportRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.models",
+        "description": "backend.app.models.models",
+        "peekOfCode": "class ExportRequest(BaseModel):\n    format: str = 'csv'  # or 'json'\n    subreddit: Optional[str] = None\n    limit: Optional[int] = 100",
+        "detail": "backend.app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "ScraperRequest",
+        "kind": 6,
+        "importPath": "backend.app.models.scraper",
+        "description": "backend.app.models.scraper",
+        "peekOfCode": "class ScraperRequest(BaseModel):\n    subreddit: str\n    num_posts: Optional[int] = 20",
+        "detail": "backend.app.models.scraper",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "def health_check():\n    return {\"status\": \"ok\"}",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "backend.app.main",
+        "description": "backend.app.main",
+        "peekOfCode": "app = FastAPI(title=\"Reddit Scraper & Analyzer API\")\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=[\"*\"],  # Or specify your frontend URL, e.g. [\"http://localhost:5173\"]\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\napp.include_router(scraper_router)\napp.include_router(analyzer_router)",
+        "detail": "backend.app.main",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": "ui.node_modules.flatted.python.flatted",
+        "description": "ui.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": "ui.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": "ui.node_modules.flatted.python.flatted",
+        "description": "ui.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": "ui.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": "ui.node_modules.flatted.python.flatted",
+        "description": "ui.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": "ui.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": "ui.node_modules.flatted.python.flatted",
+        "description": "ui.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": "ui.node_modules.flatted.python.flatted",
+        "documentation": {}
+    }
+]
