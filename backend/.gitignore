@@ -1,0 +1,18 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore database files
+*.db
+*.sqlite3
+
+# Ignore logs
+app/core/utils/data/logs/
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore other data outputs
+app/core/utils/data/scraped/
+app/core/utils/data/analyzed/ 
