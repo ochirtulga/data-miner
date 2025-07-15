@@ -65,12 +65,7 @@ npm run dev
 ---
 
 ## More Info
-- [Backend README](backend/app/core/README.md)
+- [Backend README](backend/README.md)
 - [Frontend README](ui/README.md)
 - [Scraper README](backend/app/core/scraper/README.md)
-- [Analyzer README](backend/app/core/analyzer/README.md)
-
----
-
-## License
-MIT License. Modernized and maintained by your team. 
+- [Analyzer README](backend/app/core/analyzer/README.md) 
